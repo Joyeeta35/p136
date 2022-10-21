@@ -1,0 +1,50 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 30;
+    background-color: #B73E3E;
+    width: 500px;
+    border-color:#DD5353;
+    border-radius:100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #FFD1D1;
+}
+
+.sub
+{
+    font-size: 15px;
+    background-color: #DD5353;
+    width: 1000px;
+    border-color:#B73E3E;
+    border-radius:100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #FFD1D1;
+    height: 25px;
+}
+
+.copy_right_footer
+{
+position: fixed;
+color:white;
+bottom: 0;
+width: 100%;
+background-color:#4E6C50;
+line-height: 3;
+text-align: center;
+}
+
+#label
+{
+color: white;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+    }
